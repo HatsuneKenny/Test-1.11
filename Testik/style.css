@@ -1,0 +1,110 @@
+body{
+    margin: top;
+    
+}
+.content{
+    font-size: medium;
+    font-family: 'Arial', Courier, monospace;
+    font-size: large;
+    font-weight: bold;
+    }
+
+.sidebar{
+    background: orange;
+    width: 10vw;
+    height: 70vh;
+    float: left;
+    
+}
+img {
+    height: 200px;
+    width: 300px;
+  }
+  .grid-container {
+    display: grid;
+    padding: 10px;
+    border-radius: 10px;
+    grid-template-columns: auto auto;
+  }
+  .item1 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: yellow;
+  }
+  .item2 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: blue;
+  }
+  .item3 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: red;
+  }
+  .item4 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: blueviolet;
+  }
+  .item1 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: chartreuse;
+  }
+  .item5 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: lightcoral;
+  }
+  .item6 {
+    border: 1px solid #fff;
+    padding: 10px;
+    font-size: 15px;
+    text-align: center;
+    background-color: slateblue;
+  }
+  .karta1 {
+    background: yellow;
+    width: 10vw;
+    height: 20vh;
+    margin-top:0;
+margin-right:auto;
+margin-bottom:0;
+margin-left:auto;
+
+}
+  .karta2 {
+    background: lightblue;
+    width: 10vw;
+    height: 20vh;
+    margin-top:0;
+margin-right:auto;
+margin-bottom:0;
+margin-left:auto;
+align-items: center;
+
+  }
+  .karta3{
+    background: lightgreen;
+    width: 10vw;
+    height: 20vh;
+    margin-top:0;
+margin-right:auto;
+margin-bottom:0;
+margin-left:auto;
+
+  }
+
+ 
